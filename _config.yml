@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "GongWenbin / Site Title"
+title                    : "GongWenbin'sPersonal homepage"
 title_separator          : "-"
 name                     : &name "Gong Wenbin"
 description              : &description "personal description"
@@ -84,10 +84,10 @@ author:
   avatar           : "taffy.jpg"
   bio              : "One More"
   location         : "China Shijiazhuang"
-  employer         :
+  employer         : "Shijiazhuang Tiedao University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "1051568667@qq.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
