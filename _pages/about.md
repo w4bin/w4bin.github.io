@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior from [Shijiazhuang Tiedao University](https://www.stdu.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a senior from [Shijiazhuang Tiedao University](https://www.stdu.edu.cn/).I am a student majoring in software engineering, proficient in Java language and big data technology
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
-
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](mailto:1051568667@qq.com) / [Github](https://github.com/wbin) / [QQ](../images/QQ.png) / [Cnblog](https://www.cnblogs.com/bin1004/)
