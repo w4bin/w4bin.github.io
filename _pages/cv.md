@@ -9,14 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
-* Studying in Shijiazhuang Tiedao University, from 2020 to present
+* 本科在石家庄铁道大学于2020年学习至今
 
-Work experience
+工作经验
 ======
+暂无
 
-Skills
+技能
 ======
 * Java
 * C
