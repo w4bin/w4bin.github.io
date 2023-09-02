@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* Studying in Shijiazhuang Tiedao University, from 2020 to present
 
 Work experience
 ======
@@ -21,12 +21,5 @@ Skills
 * Java
 * C
 * C++
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 
